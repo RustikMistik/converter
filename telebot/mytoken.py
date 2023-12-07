@@ -1,0 +1,1 @@
+TOKEN = '6733534110:AAEyyzek5ocB6WMMTTGC1-2D57tmk9obg4o' == globals()
